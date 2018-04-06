@@ -1,0 +1,13 @@
+//
+//  XplodeSDK.xcconfig
+//  XplodeSDK
+//
+//  Created by Bojan Dimovski on 15.7.13.
+//  Copyright (c) 2013 Iddiction, Inc. All rights reserved.
+//
+
+OTHER_LDFLAGS=$(inherited) -framework Foundation -framework UIKit -framework Accelerate -framework AdSupport -framework Security -framework StoreKit -framework QuartzCore -framework CoreTelephony -framework MediaPlayer -lsqlite3 -ObjC
+CLANG_ENABLE_MODULES=YES
+ALWAYS_SEARCH_USER_PATHS=YES
+FRAMEWORK_SEARCH_PATHS=$(inherited) $(SRCROOT)/Frameworks/XplodeSDK.embeddedframework/**
+USER_HEADER_SEARCH_PATHS=$(inherited) $(SRCROOT)/Frameworks/XplodeSDK.embeddedframework/**

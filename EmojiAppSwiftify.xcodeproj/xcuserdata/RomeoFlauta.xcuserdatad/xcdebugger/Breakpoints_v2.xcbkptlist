@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/EmojiArtViewController.swift"
+            timestampString = "431522395.300951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "dismissEditArtTV()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/EmojiArtViewController.swift"
+            timestampString = "431522395.300951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "dismissEditArtTV()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiAppSwiftify.EmojiArtViewController.dismissEditArtTV (EmojiAppSwiftify.EmojiArtViewController)() -&gt; ()"
+                  moduleName = "EmojiAppSwiftify"
+                  urlString = "file:///Users/RomeoFlauta/Documents/NFerocious/Swift%20Projects/EmojiAppSwiftify/EmojiAppSwiftify/EmojiAppSwiftify/EmojiArtViewController.swift"
+                  timestampString = "431522395.353576"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiAppSwiftify.EmojiArtViewController.dismissEditArtTV (EmojiAppSwiftify.EmojiArtViewController)() -&gt; ()"
+                  moduleName = "EmojiAppSwiftify"
+                  urlString = "file:///Users/RomeoFlauta/Documents/NFerocious/Swift%20Projects/EmojiAppSwiftify/EmojiAppSwiftify/EmojiAppSwiftify/EmojiArtViewController.swift"
+                  timestampString = "431522395.353888"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "960">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/EmojiArtViewController.swift"
+            timestampString = "431522395.300951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "textViewDidBeginEditing(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/EmojiArtViewController.swift"
+            timestampString = "428500591.825396"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "viewDidLayoutSubviews()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/StaticViewController.swift"
+            timestampString = "430627461.900488"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "viewDidLayoutSubviews()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/LetterToEmojiViewController.swift"
+            timestampString = "428501470.318516"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fileNameEntered(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/LetterToEmojiViewController.swift"
+            timestampString = "428501722.602954"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "fileNameEntered(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/EmojiArtViewController.swift"
+            timestampString = "431522395.300951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "textView(_:shouldChangeTextInRange:replacementText:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/EmojiArtViewController.swift"
+            timestampString = "431522395.300951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "textView(_:shouldChangeTextInRange:replacementText:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/EmojiDataLoader.swift"
+            timestampString = "429537208.802994"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "279"
+            endingLineNumber = "279"
+            landmarkName = "gifDirectoryFinder()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiAppSwiftify.EmojiDataLoader.gifDirectoryFinder (EmojiAppSwiftify.EmojiDataLoader)() -&gt; ()"
+                  moduleName = "EmojiAppSwiftify"
+                  urlString = "file:///Users/RomeoFlauta/Documents/NFerocious/Swift%20Projects/EmojiAppSwiftify/EmojiAppSwiftify/EmojiDataLoader.swift"
+                  timestampString = "429535755.138306"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "285"
+                  endingLineNumber = "285"
+                  offsetFromSymbolStart = "8217">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiAppSwiftify.EmojiDataLoader.gifDirectoryFinder (EmojiAppSwiftify.EmojiDataLoader)() -&gt; ()"
+                  moduleName = "EmojiAppSwiftify"
+                  urlString = "file:///Users/RomeoFlauta/Documents/NFerocious/Swift%20Projects/EmojiAppSwiftify/EmojiAppSwiftify/EmojiDataLoader.swift"
+                  timestampString = "429535755.138625"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "285"
+                  endingLineNumber = "285"
+                  offsetFromSymbolStart = "8507">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/EmojiDataLoader.swift"
+            timestampString = "429537208.802994"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "277"
+            endingLineNumber = "277"
+            landmarkName = "gifDirectoryFinder()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/EmojiDataLoader.swift"
+            timestampString = "429537431.11182"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "350"
+            endingLineNumber = "350"
+            landmarkName = "gifDirectoryFinder()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/StaticViewController.swift"
+            timestampString = "431520578.333883"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "445"
+            endingLineNumber = "445"
+            landmarkName = "mailComposeController(_:didFinishWithResult:error:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiAppSwiftify.StaticViewController.mailComposeController (EmojiAppSwiftify.StaticViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.MFMailComposeViewController&gt;, didFinishWithResult : C.MFMailComposeResult, error : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; ()"
+                  moduleName = "EmojiAppSwiftify"
+                  urlString = "file:///Users/RomeoFlauta/Documents/NFerocious/Swift%20Projects/EmojiAppSwiftify/EmojiAppSwiftify/EmojiAppSwiftify/StaticViewController.swift"
+                  timestampString = "431522395.359012"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "445"
+                  endingLineNumber = "445"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiAppSwiftify.StaticViewController.(mailComposeController (EmojiAppSwiftify.StaticViewController) -&gt; (Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.MFMailComposeViewController&gt;, didFinishWithResult : C.MFMailComposeResult, error : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; ()).(closure #1)"
+                  moduleName = "EmojiAppSwiftify"
+                  urlString = "file:///Users/RomeoFlauta/Documents/NFerocious/Swift%20Projects/EmojiAppSwiftify/EmojiAppSwiftify/EmojiAppSwiftify/StaticViewController.swift"
+                  timestampString = "431522395.359216"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "446"
+                  endingLineNumber = "446"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/StaticViewController.swift"
+            timestampString = "431520578.333883"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "451"
+            endingLineNumber = "451"
+            landmarkName = "messageComposeViewController(_:didFinishWithResult:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiAppSwiftify.StaticViewController.messageComposeViewController (EmojiAppSwiftify.StaticViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.MFMessageComposeViewController&gt;, didFinishWithResult : C.MessageComposeResult) -&gt; ()"
+                  moduleName = "EmojiAppSwiftify"
+                  urlString = "file:///Users/RomeoFlauta/Documents/NFerocious/Swift%20Projects/EmojiAppSwiftify/EmojiAppSwiftify/EmojiAppSwiftify/StaticViewController.swift"
+                  timestampString = "431522395.360277"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "451"
+                  endingLineNumber = "451"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiAppSwiftify.StaticViewController.(messageComposeViewController (EmojiAppSwiftify.StaticViewController) -&gt; (Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.MFMessageComposeViewController&gt;, didFinishWithResult : C.MessageComposeResult) -&gt; ()).(closure #1)"
+                  moduleName = "EmojiAppSwiftify"
+                  urlString = "file:///Users/RomeoFlauta/Documents/NFerocious/Swift%20Projects/EmojiAppSwiftify/EmojiAppSwiftify/EmojiAppSwiftify/StaticViewController.swift"
+                  timestampString = "431522395.360598"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "452"
+                  endingLineNumber = "452"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiAppSwiftify/EmojiArtViewController.swift"
+            timestampString = "431522144.275145"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "saveButton(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiAppSwiftify.EmojiArtViewController.saveButton (EmojiAppSwiftify.EmojiArtViewController)(ObjectiveC.UIButton) -&gt; ()"
+                  moduleName = "EmojiAppSwiftify"
+                  urlString = "file:///Users/RomeoFlauta/Documents/NFerocious/Swift%20Projects/EmojiAppSwiftify/EmojiAppSwiftify/EmojiAppSwiftify/EmojiArtViewController.swift"
+                  timestampString = "431522395.362008"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reabstraction thunk helper from @callee_owned (@owned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIAlertAction&gt;) -&gt; (@unowned ()) to @callee_owned (@in Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIAlertAction&gt;) -&gt; (@out ())"
+                  moduleName = "EmojiAppSwiftify"
+                  urlString = "file:///Users/RomeoFlauta/Documents/NFerocious/Swift%20Projects/EmojiAppSwiftify/EmojiAppSwiftify/EmojiAppSwiftify/EmojiArtViewController.swift"
+                  timestampString = "431522395.362184"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
